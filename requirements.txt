@@ -11,6 +11,7 @@ uvicorn==0.18.3
 #script
 nbval
 ruff
+#databricks
 databricks-sql-connector
 python-dotenv
 tabulate
